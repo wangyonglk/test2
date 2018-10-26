@@ -2,7 +2,7 @@
 
 	echo '练习';
 
-
+	echo 123;
 
 	echo 'test';
 
