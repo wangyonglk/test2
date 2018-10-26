@@ -1,5 +1,8 @@
 <?php 
 
+	echo '练习';
+
+
 
 	echo 'test';
 
@@ -12,8 +15,6 @@
 	echo 'Hello World';
 
 	echo 'php208';
-
-
 
 
  ?>
